@@ -74,7 +74,7 @@ It looks like we have a reset button. Let's make it work. Remember how we could 
   })
 ```
 
-## Step 4 - Color Pallette
+## Step 4 - Color Palette
 
 Let's make our color buttons work!
 
